@@ -8,7 +8,7 @@ metadata:
   namespace: student52-static-dev
 spec:
   rules:
-  - host: dev.static.net
+  - host: dev.opsta.net
     http:
       paths:
       - path: /student52/static(/|$)(.*)
